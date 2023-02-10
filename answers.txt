@@ -1,1 +1,3 @@
 A merge preserves history by creating only one new merge commit. A rebase rewrites history by reapplying commits on top of another base branch.
+
+A remote repository is hosted on a server (internet or network) that stores code and allows users to access it.
