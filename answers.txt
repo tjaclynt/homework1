@@ -1,0 +1,1 @@
+A merge preserves history by creating only one new merge commit. A rebase rewrites history by reapplying commits on top of another base branch.
